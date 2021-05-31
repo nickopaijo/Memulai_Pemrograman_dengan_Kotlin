@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Enumeration/Enumeration/build/
+/Control Flow/Latihan/Latihan/build/
+/Coroutines/latihan/Latihan/build/
+/Data Class dan Collections/Latihan/latihan/build/
+/Functional/Latihan/Latihan/build/
+/Functional/Named and Default Argument/Contoh 1/build/
+/Functional/Named and Default Argument/Contoh 3/build/
+/Generics/Latihan/Latihan/build/
+/Kotlin Fundamental/Hello Kotlin/Hello Kotlin 2/build/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/build/
+/Object-Oriented/Classes/Contoh/build/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Object Everywhere/Contoh 1/build/
+/Object-Oriented/Object Everywhere/Contoh 2/build/
